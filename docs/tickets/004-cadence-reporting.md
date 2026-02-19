@@ -9,7 +9,7 @@
 - Monthly tuning review template
 
 ## Todo
-- [ ] Daily報告テンプレート作成
-- [ ] Weeklyレポートの標準項目確定
-- [ ] Monthly見直し手順を定義
-- [ ] PRIME AIの報告責務を明文化
+- [x] Daily報告テンプレート作成
+- [x] Weeklyレポートの標準項目確定
+- [x] Monthly見直し手順を定義
+- [x] PRIME AIの報告責務を明文化
