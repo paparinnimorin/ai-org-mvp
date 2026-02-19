@@ -3,6 +3,13 @@
 ## Core
 - `ai-org-mvp.md`
 - `raci-authority-matrix.md`
+- `approval-gate-workflow.md`
+- `rollout-90day-plan.md`
+
+## Templates
+- `templates/daily-standup.md`
+- `templates/weekly-kpi-report.md`
+- `templates/monthly-tuning-review.md`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -17,3 +24,6 @@
 - `tickets/010-ops-division-mvp.md`
 - `tickets/011-safety-stop-conditions.md`
 - `tickets/012-90day-rollout-plan.md`
+
+## Logs
+- `logs/approval-log.md`

@@ -6,7 +6,7 @@
 
 ## KPI Summary
 | KPI | Target | Actual | Delta | Status (G/Y/R) | Owner |
-|---|---:|---:|---:|---|---|
+| --- | ---: | ---: | ---: | --- | --- |
 | Operating Margin |  |  |  |  | BizDev Lead |
 | Availability |  |  |  |  | Tech Lead |
 | Automation Rate |  |  |  |  | Ops Lead |

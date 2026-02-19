@@ -9,7 +9,7 @@
 ## 2. RACI (Core Processes)
 
 | Process | HUMAN CEO | PRIME AI | Division Lead | Execution Agent |
-|---|---|---|---|---|
+| --- | --- | --- | --- | --- |
 | KPI設定/改定 | A | R | C | I |
 | 週次運用レビュー | A | R | C | I |
 | 日次タスク配分 | I | A | R | C |
