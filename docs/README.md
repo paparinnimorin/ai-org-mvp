@@ -3,6 +3,24 @@
 ## Core
 - `ai-org-mvp.md`
 - `raci-authority-matrix.md`
+- `org-layer-definitions.md`
+- `agent-staffing-model.md`
+- `kpi-spec.md`
+- `raci-operational.md`
+- `approval-gate-workflow.md`
+- `rollout-90day-plan.md`
+- `safety-incident-playbook.md`
+
+## Templates
+- `templates/daily-standup.md`
+- `templates/weekly-kpi-report.md`
+- `templates/monthly-tuning-review.md`
+
+## Playbooks
+- `playbooks/content-mvp-runbook.md`
+- `playbooks/bizdev-mvp-runbook.md`
+- `playbooks/tech-mvp-runbook.md`
+- `playbooks/ops-mvp-runbook.md`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
