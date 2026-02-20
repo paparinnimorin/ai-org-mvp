@@ -63,3 +63,13 @@ python3 scripts/new_cycle_kickoff_brief.py --id KB-20260221-01 --cycle 047-050 -
 ```bash
 python3 scripts/check_kickoff_bundle.py --cycle 047-050
 ```
+
+## Cycle midcheck report generation
+```bash
+python3 scripts/new_cycle_midcheck_report.py --id MC-20260221-01 --cycle 051-054 --owner manager --date 2026-02-21
+```
+
+## Midcheck bundle check
+```bash
+python3 scripts/check_midcheck_bundle.py --cycle 051-054
+```

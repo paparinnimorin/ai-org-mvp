@@ -53,9 +53,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 048-manager-cycle-kickoff-checklist.md: DONE
 - 049-cycle-kickoff-brief-template-cli.md: DONE
 - 050-kickoff-bundle-check-cli.md: DONE
+- 051-cycle-midcheck-review-flow.md: DONE
+- 052-manager-cycle-midcheck-checklist.md: DONE
+- 053-cycle-midcheck-report-template-cli.md: DONE
+- 054-midcheck-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 50
+- Total tickets: 54
 - Open tickets: 0
 
 ## Next Development Focus
