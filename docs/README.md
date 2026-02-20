@@ -24,6 +24,7 @@
 - `templates/risk-review-note.md`
 - `templates/task-card.md`
 - `templates/manager-brief.md`
+- `templates/manager-handoff-note.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -47,6 +48,7 @@
 - `process/task-agent-execution.md`
 - `process/manager-task-orchestration.md`
 - `process/manager-task-board.md`
+- `process/manager-handoff-protocol.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -54,12 +56,14 @@
 - `checklists/weekly-close-checklist.md`
 - `checklists/task-execution-checklist.md`
 - `checklists/manager-dispatch-checklist.md`
+- `checklists/manager-handoff-checklist.md`
 - `checklists/tasks/`
 
 ## Reports
 - `reports/weekly-kpi-snapshot.md`
 - `reports/incident-drill-report-template.md`
 - `reports/task-report-template.md`
+- `reports/handoffs/`
 
 ## Governance
 - `risk-register.md`
@@ -71,6 +75,7 @@
 - `scripts/new_manager_brief.py`
 - `scripts/check_readme_links.py`
 - `scripts/check_manager_board.py`
+- `scripts/new_manager_handoff_note.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -111,3 +116,7 @@
 - `tickets/036-manager-brief-template.md`
 - `tickets/037-manager-dispatch-checklist.md`
 - `tickets/038-manager-board-link-check.md`
+- `tickets/039-manager-handoff-process.md`
+- `tickets/040-manager-handoff-template.md`
+- `tickets/041-manager-handoff-checklist.md`
+- `tickets/042-manager-handoff-note-cli.md`

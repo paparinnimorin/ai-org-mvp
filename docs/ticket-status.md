@@ -41,9 +41,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 036-manager-brief-template.md: DONE
 - 037-manager-dispatch-checklist.md: DONE
 - 038-manager-board-link-check.md: DONE
+- 039-manager-handoff-process.md: DONE
+- 040-manager-handoff-template.md: DONE
+- 041-manager-handoff-checklist.md: DONE
+- 042-manager-handoff-note-cli.md: DONE
 
 ## Summary
-- Total tickets: 38
+- Total tickets: 42
 - Open tickets: 0
 
 ## Next Development Focus

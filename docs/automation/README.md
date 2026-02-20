@@ -38,3 +38,8 @@ If KPI generation fails, check:
 1. CSV header matches spec
 2. ratio fields are 0..1
 3. `week` is `YYYY-Www`
+
+## Manager handoff note generation
+```bash
+python3 scripts/new_manager_handoff_note.py --id HN-20260221-01 --from-owner manager-a --to-owner manager-b --date 2026-02-21 --focus "cycle 039-042 close"
+```
