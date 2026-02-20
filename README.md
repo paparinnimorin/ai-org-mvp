@@ -19,3 +19,7 @@ AI組織MVP（日本語メイン + English keywords）
 3. 自動化率 (Automation Rate)
 4. コンテンツ公開本数 (Content Throughput)
 5. 学習完了率 (Learning Completion)
+
+## Utilities
+- `python3 scripts/check_tickets.py`
+  - `docs/tickets/*.md` のTodo完了状況を検査（未完了があれば終了コード1）

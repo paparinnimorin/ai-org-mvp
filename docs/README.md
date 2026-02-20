@@ -10,6 +10,7 @@
 - `approval-gate-workflow.md`
 - `rollout-90day-plan.md`
 - `safety-incident-playbook.md`
+- `ticket-status.md`
 
 ## Templates
 - `templates/daily-standup.md`
