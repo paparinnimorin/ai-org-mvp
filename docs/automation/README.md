@@ -53,3 +53,13 @@ python3 scripts/new_cycle_closeout_report.py --id CC-20260221-01 --cycle 043-046
 ```bash
 python3 scripts/check_closeout_bundle.py --cycle 043-046
 ```
+
+## Cycle kickoff brief generation
+```bash
+python3 scripts/new_cycle_kickoff_brief.py --id KB-20260221-01 --cycle 047-050 --owner manager --date 2026-02-21
+```
+
+## Kickoff bundle check
+```bash
+python3 scripts/check_kickoff_bundle.py --cycle 047-050
+```

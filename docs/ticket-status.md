@@ -49,9 +49,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 044-manager-cycle-close-checklist.md: DONE
 - 045-cycle-closeout-report-template-cli.md: DONE
 - 046-closeout-bundle-check-cli.md: DONE
+- 047-cycle-kickoff-readiness-flow.md: DONE
+- 048-manager-cycle-kickoff-checklist.md: DONE
+- 049-cycle-kickoff-brief-template-cli.md: DONE
+- 050-kickoff-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 46
+- Total tickets: 50
 - Open tickets: 0
 
 ## Next Development Focus
