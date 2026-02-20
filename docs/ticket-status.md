@@ -57,9 +57,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 052-manager-cycle-midcheck-checklist.md: DONE
 - 053-cycle-midcheck-report-template-cli.md: DONE
 - 054-midcheck-bundle-check-cli.md: DONE
+- 055-monthly-governance-review-flow.md: DONE
+- 056-monthly-approval-audit-cli.md: DONE
+- 057-monthly-governance-review-cli.md: DONE
+- 058-monthly-governance-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 54
+- Total tickets: 58
 - Open tickets: 0
 
 ## Next Development Focus

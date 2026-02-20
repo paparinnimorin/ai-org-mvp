@@ -73,3 +73,18 @@ python3 scripts/new_cycle_midcheck_report.py --id MC-20260221-01 --cycle 051-054
 ```bash
 python3 scripts/check_midcheck_bundle.py --cycle 051-054
 ```
+
+## Monthly approval audit generation
+```bash
+python3 scripts/new_monthly_approval_audit.py --id MA-202602-01 --month 2026-02 --owner manager --date 2026-02-21
+```
+
+## Monthly governance review generation
+```bash
+python3 scripts/new_monthly_governance_review.py --id MR-202602-01 --month 2026-02 --owner manager --date 2026-02-21
+```
+
+## Monthly governance bundle check
+```bash
+python3 scripts/check_monthly_governance_bundle.py --month 2026-02
+```

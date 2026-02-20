@@ -55,6 +55,7 @@
 - `process/cycle-closeout-handoff.md`
 - `process/cycle-kickoff-readiness.md`
 - `process/cycle-midcheck-review.md`
+- `process/monthly-governance-review.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -79,6 +80,9 @@
 - `reports/kickoffs/kb-20260221-01-cycle-047-050.md`
 - `reports/midchecks/`
 - `reports/midchecks/mc-20260221-01-cycle-051-054.md`
+- `reports/monthly/`
+- `reports/monthly/ma-202602-01-approval-audit-2026-02.md`
+- `reports/monthly/mr-202602-01-monthly-governance-review-2026-02.md`
 
 ## Governance
 - `risk-register.md`
@@ -97,6 +101,9 @@
 - `scripts/check_kickoff_bundle.py`
 - `scripts/new_cycle_midcheck_report.py`
 - `scripts/check_midcheck_bundle.py`
+- `scripts/new_monthly_approval_audit.py`
+- `scripts/new_monthly_governance_review.py`
+- `scripts/check_monthly_governance_bundle.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -153,3 +160,7 @@
 - `tickets/052-manager-cycle-midcheck-checklist.md`
 - `tickets/053-cycle-midcheck-report-template-cli.md`
 - `tickets/054-midcheck-bundle-check-cli.md`
+- `tickets/055-monthly-governance-review-flow.md`
+- `tickets/056-monthly-approval-audit-cli.md`
+- `tickets/057-monthly-governance-review-cli.md`
+- `tickets/058-monthly-governance-bundle-check-cli.md`
