@@ -1,9 +1,11 @@
-# Weekly KPI Snapshot (2026-W08)
+# Weekly KPI Snapshot (2026-W09)
 
 | KPI | Value |
 |---|---:|
-| Operating Margin | 18.0% |
-| Availability | 99.60% |
-| Automation Rate | 72.0% |
-| Content Throughput | 3 |
-| Learning Completion | 81.0% |
+| Operating Margin | 20.0% |
+| Availability | 99.70% |
+| Automation Rate | 75.0% |
+| Content Throughput | 4 |
+| Learning Completion | 83.0% |
+
+_Generated from `data/kpi/weekly-input.csv`._

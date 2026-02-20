@@ -13,6 +13,10 @@
 - `ticket-status.md`
 
 ## Templates
+- `templates/dryrun-day-log.md`
+- `templates/dryrun-weekly-retro.md`
+- `templates/raci-change-notice.md`
+- `templates/decision-log.md`
 - `templates/daily-standup.md`
 - `templates/weekly-kpi-report.md`
 - `templates/monthly-tuning-review.md`
@@ -46,3 +50,19 @@
 
 ## Reports
 - `reports/weekly-kpi-snapshot.md`
+
+
+## Process
+- `process/kpi-data-pipeline.md`
+- `process/approval-log-operations.md`
+- `process/backlog-triage-rules.md`
+- `process/raci-delta-review.md`
+- `process/incident-drill-scenarios.md`
+- `process/weekly-governance-rhythm.md`
+
+## Checklists
+- `checklists/monthly-approval-audit.md`
+
+## Reports
+- `reports/weekly-kpi-snapshot.md`
+- `reports/incident-drill-report-template.md`
