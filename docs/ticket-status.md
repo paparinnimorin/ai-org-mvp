@@ -21,3 +21,12 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 2. Approval Log の運用開始（初回承認レコード投入）
 3. Runbookに基づく1週間のドライラン実施
 4. ドライラン結果をもとにRACI再調整
+
+
+## Backlog (Phase 2 Tickets)
+- 013 KPI Data Pipeline Bootstrap
+- 014 Approval Log Operations
+- 015 Dry Run Week 1
+- 016 RACI Delta Review
+- 017 Incident Drill
+- 018 Weekly Governance Rhythm

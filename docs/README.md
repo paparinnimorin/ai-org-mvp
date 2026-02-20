@@ -24,6 +24,12 @@
 - `playbooks/ops-mvp-runbook.md`
 
 ## Tickets
+- `tickets/013-kpi-data-pipeline-bootstrap.md`
+- `tickets/014-approval-log-operations.md`
+- `tickets/015-dryrun-week1.md`
+- `tickets/016-raci-delta-review.md`
+- `tickets/017-incident-drill.md`
+- `tickets/018-weekly-governance-rhythm.md`
 - `tickets/001-org-layer-role-definitions.md`
 - `tickets/002-agent-staffing-model.md`
 - `tickets/003-kpi-measurement-design.md`
@@ -36,3 +42,7 @@
 - `tickets/010-ops-division-mvp.md`
 - `tickets/011-safety-stop-conditions.md`
 - `tickets/012-90day-rollout-plan.md`
+
+
+## Reports
+- `reports/weekly-kpi-snapshot.md`
