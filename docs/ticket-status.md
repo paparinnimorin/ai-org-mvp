@@ -33,9 +33,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 028-risk-review-ops.md: DONE
 - 029-governance-minutes-cli.md: DONE
 - 030-ticket-status-refresh.md: DONE
+- 031-task-agent-execution-spec.md: DONE
+- 032-task-card-cli-bootstrap.md: DONE
+- 033-task-checklist-pack.md: DONE
+- 034-readme-link-guard.md: DONE
 
 ## Summary
-- Total tickets: 30
+- Total tickets: 34
 - Open tickets: 0
 
 ## Next Development Focus

@@ -22,6 +22,7 @@
 - `templates/monthly-tuning-review.md`
 - `templates/governance-minutes.md`
 - `templates/risk-review-note.md`
+- `templates/task-card.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -42,19 +43,28 @@
 - `process/kpi-input-governance.md`
 - `process/weekly-practice-cycle.md`
 - `process/risk-review-weekly.md`
+- `process/task-agent-execution.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
 - `checklists/pr-review-checklist.md`
 - `checklists/weekly-close-checklist.md`
+- `checklists/task-execution-checklist.md`
+- `checklists/tasks/`
 
 ## Reports
 - `reports/weekly-kpi-snapshot.md`
 - `reports/incident-drill-report-template.md`
+- `reports/task-report-template.md`
 
 ## Governance
 - `risk-register.md`
 - `automation/README.md`
+
+## Scripts
+- `scripts/check_tickets.py`
+- `scripts/new_task_card.py`
+- `scripts/check_readme_links.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -87,3 +97,7 @@
 - `tickets/028-risk-review-ops.md`
 - `tickets/029-governance-minutes-cli.md`
 - `tickets/030-ticket-status-refresh.md`
+- `tickets/031-task-agent-execution-spec.md`
+- `tickets/032-task-card-cli-bootstrap.md`
+- `tickets/033-task-checklist-pack.md`
+- `tickets/034-readme-link-guard.md`

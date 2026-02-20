@@ -10,6 +10,18 @@ make kpi-report
 make ticket-check
 ```
 
+## Task card generation (strict task-agent)
+```bash
+python3 scripts/new_task_card.py --id T-034A --title "link guard rollout" --owner ops --due 2026-02-21
+```
+
+## README link guard
+```bash
+make link-check
+# or
+python3 scripts/check_readme_links.py
+```
+
 If KPI generation fails, check:
 1. CSV header matches spec
 2. ratio fields are 0..1
