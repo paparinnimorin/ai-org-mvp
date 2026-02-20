@@ -23,3 +23,9 @@ AI組織MVP（日本語メイン + English keywords）
 ## Utilities
 - `python3 scripts/check_tickets.py`
   - `docs/tickets/*.md` のTodo完了状況を検査（未完了があれば終了コード1）
+
+## Commands
+```bash
+make kpi-report
+make ticket-check
+```

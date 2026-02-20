@@ -28,6 +28,10 @@
 - `playbooks/ops-mvp-runbook.md`
 
 ## Tickets
+- `tickets/019-kpi-cli-automation.md`
+- `tickets/020-governance-meeting-kit.md`
+- `tickets/021-risk-register-bootstrap.md`
+- `tickets/022-dryrun-week2-plan.md`
 - `tickets/013-kpi-data-pipeline-bootstrap.md`
 - `tickets/014-approval-log-operations.md`
 - `tickets/015-dryrun-week1.md`
@@ -66,3 +70,10 @@
 ## Reports
 - `reports/weekly-kpi-snapshot.md`
 - `reports/incident-drill-report-template.md`
+
+## Governance
+- `risk-register.md`
+- `process/governance-30min.md`
+- `templates/governance-minutes.md`
+- `process/dryrun-week2-plan.md`
+- `automation/README.md`
