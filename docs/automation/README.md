@@ -22,6 +22,18 @@ make link-check
 python3 scripts/check_readme_links.py
 ```
 
+## Manager brief generation
+```bash
+python3 scripts/new_manager_brief.py --id MB-20260221-01 --title "week2 dispatch" --ticket 035-038 --owner manager --due 2026-02-22
+```
+
+## Manager board link check
+```bash
+make manager-board-check
+# or
+python3 scripts/check_manager_board.py
+```
+
 If KPI generation fails, check:
 1. CSV header matches spec
 2. ratio fields are 0..1

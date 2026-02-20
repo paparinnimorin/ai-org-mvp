@@ -37,9 +37,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 032-task-card-cli-bootstrap.md: DONE
 - 033-task-checklist-pack.md: DONE
 - 034-readme-link-guard.md: DONE
+- 035-manager-orchestration-loop.md: DONE
+- 036-manager-brief-template.md: DONE
+- 037-manager-dispatch-checklist.md: DONE
+- 038-manager-board-link-check.md: DONE
 
 ## Summary
-- Total tickets: 34
+- Total tickets: 38
 - Open tickets: 0
 
 ## Next Development Focus

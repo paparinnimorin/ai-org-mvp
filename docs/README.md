@@ -23,6 +23,7 @@
 - `templates/governance-minutes.md`
 - `templates/risk-review-note.md`
 - `templates/task-card.md`
+- `templates/manager-brief.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -44,12 +45,15 @@
 - `process/weekly-practice-cycle.md`
 - `process/risk-review-weekly.md`
 - `process/task-agent-execution.md`
+- `process/manager-task-orchestration.md`
+- `process/manager-task-board.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
 - `checklists/pr-review-checklist.md`
 - `checklists/weekly-close-checklist.md`
 - `checklists/task-execution-checklist.md`
+- `checklists/manager-dispatch-checklist.md`
 - `checklists/tasks/`
 
 ## Reports
@@ -64,7 +68,9 @@
 ## Scripts
 - `scripts/check_tickets.py`
 - `scripts/new_task_card.py`
+- `scripts/new_manager_brief.py`
 - `scripts/check_readme_links.py`
+- `scripts/check_manager_board.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -101,3 +107,7 @@
 - `tickets/032-task-card-cli-bootstrap.md`
 - `tickets/033-task-checklist-pack.md`
 - `tickets/034-readme-link-guard.md`
+- `tickets/035-manager-orchestration-loop.md`
+- `tickets/036-manager-brief-template.md`
+- `tickets/037-manager-dispatch-checklist.md`
+- `tickets/038-manager-board-link-check.md`
