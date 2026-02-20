@@ -20,6 +20,8 @@
 - `templates/daily-standup.md`
 - `templates/weekly-kpi-report.md`
 - `templates/monthly-tuning-review.md`
+- `templates/governance-minutes.md`
+- `templates/risk-review-note.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -27,17 +29,34 @@
 - `playbooks/tech-mvp-runbook.md`
 - `playbooks/ops-mvp-runbook.md`
 
+## Process
+- `process/kpi-data-pipeline.md`
+- `process/approval-log-operations.md`
+- `process/backlog-triage-rules.md`
+- `process/raci-delta-review.md`
+- `process/incident-drill-scenarios.md`
+- `process/weekly-governance-rhythm.md`
+- `process/governance-30min.md`
+- `process/dryrun-week2-plan.md`
+- `process/week1-execution.md`
+- `process/kpi-input-governance.md`
+- `process/weekly-practice-cycle.md`
+- `process/risk-review-weekly.md`
+
+## Checklists
+- `checklists/monthly-approval-audit.md`
+- `checklists/pr-review-checklist.md`
+- `checklists/weekly-close-checklist.md`
+
+## Reports
+- `reports/weekly-kpi-snapshot.md`
+- `reports/incident-drill-report-template.md`
+
+## Governance
+- `risk-register.md`
+- `automation/README.md`
+
 ## Tickets
-- `tickets/019-kpi-cli-automation.md`
-- `tickets/020-governance-meeting-kit.md`
-- `tickets/021-risk-register-bootstrap.md`
-- `tickets/022-dryrun-week2-plan.md`
-- `tickets/013-kpi-data-pipeline-bootstrap.md`
-- `tickets/014-approval-log-operations.md`
-- `tickets/015-dryrun-week1.md`
-- `tickets/016-raci-delta-review.md`
-- `tickets/017-incident-drill.md`
-- `tickets/018-weekly-governance-rhythm.md`
 - `tickets/001-org-layer-role-definitions.md`
 - `tickets/002-agent-staffing-model.md`
 - `tickets/003-kpi-measurement-design.md`
@@ -50,30 +69,21 @@
 - `tickets/010-ops-division-mvp.md`
 - `tickets/011-safety-stop-conditions.md`
 - `tickets/012-90day-rollout-plan.md`
-
-
-## Reports
-- `reports/weekly-kpi-snapshot.md`
-
-
-## Process
-- `process/kpi-data-pipeline.md`
-- `process/approval-log-operations.md`
-- `process/backlog-triage-rules.md`
-- `process/raci-delta-review.md`
-- `process/incident-drill-scenarios.md`
-- `process/weekly-governance-rhythm.md`
-
-## Checklists
-- `checklists/monthly-approval-audit.md`
-
-## Reports
-- `reports/weekly-kpi-snapshot.md`
-- `reports/incident-drill-report-template.md`
-
-## Governance
-- `risk-register.md`
-- `process/governance-30min.md`
-- `templates/governance-minutes.md`
-- `process/dryrun-week2-plan.md`
-- `automation/README.md`
+- `tickets/013-kpi-data-pipeline-bootstrap.md`
+- `tickets/014-approval-log-operations.md`
+- `tickets/015-dryrun-week1.md`
+- `tickets/016-raci-delta-review.md`
+- `tickets/017-incident-drill.md`
+- `tickets/018-weekly-governance-rhythm.md`
+- `tickets/019-kpi-cli-automation.md`
+- `tickets/020-governance-meeting-kit.md`
+- `tickets/021-risk-register-bootstrap.md`
+- `tickets/022-dryrun-week2-plan.md`
+- `tickets/023-ops-log-cli-tools.md`
+- `tickets/024-week1-execution-pack.md`
+- `tickets/025-kpi-input-governance.md`
+- `tickets/026-practice-cycle.md`
+- `tickets/027-weekly-close-checklist.md`
+- `tickets/028-risk-review-ops.md`
+- `tickets/029-governance-minutes-cli.md`
+- `tickets/030-ticket-status-refresh.md`
