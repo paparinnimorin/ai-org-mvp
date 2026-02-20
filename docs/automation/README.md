@@ -43,3 +43,13 @@ If KPI generation fails, check:
 ```bash
 python3 scripts/new_manager_handoff_note.py --id HN-20260221-01 --from-owner manager-a --to-owner manager-b --date 2026-02-21 --focus "cycle 039-042 close"
 ```
+
+## Cycle closeout report generation
+```bash
+python3 scripts/new_cycle_closeout_report.py --id CC-20260221-01 --cycle 043-046 --owner manager --date 2026-02-21
+```
+
+## Closeout bundle check
+```bash
+python3 scripts/check_closeout_bundle.py --cycle 043-046
+```

@@ -25,6 +25,7 @@
 - `templates/task-card.md`
 - `templates/manager-brief.md`
 - `templates/manager-handoff-note.md`
+- `templates/cycle-closeout-report.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -49,6 +50,7 @@
 - `process/manager-task-orchestration.md`
 - `process/manager-task-board.md`
 - `process/manager-handoff-protocol.md`
+- `process/cycle-closeout-handoff.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -57,6 +59,7 @@
 - `checklists/task-execution-checklist.md`
 - `checklists/manager-dispatch-checklist.md`
 - `checklists/manager-handoff-checklist.md`
+- `checklists/manager-cycle-close-checklist.md`
 - `checklists/tasks/`
 
 ## Reports
@@ -64,6 +67,8 @@
 - `reports/incident-drill-report-template.md`
 - `reports/task-report-template.md`
 - `reports/handoffs/`
+- `reports/closeouts/`
+- `reports/closeouts/cc-20260221-01-cycle-043-046.md`
 
 ## Governance
 - `risk-register.md`
@@ -76,6 +81,8 @@
 - `scripts/check_readme_links.py`
 - `scripts/check_manager_board.py`
 - `scripts/new_manager_handoff_note.py`
+- `scripts/new_cycle_closeout_report.py`
+- `scripts/check_closeout_bundle.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -120,3 +127,7 @@
 - `tickets/040-manager-handoff-template.md`
 - `tickets/041-manager-handoff-checklist.md`
 - `tickets/042-manager-handoff-note-cli.md`
+- `tickets/043-cycle-closeout-handoff-flow.md`
+- `tickets/044-manager-cycle-close-checklist.md`
+- `tickets/045-cycle-closeout-report-template-cli.md`
+- `tickets/046-closeout-bundle-check-cli.md`
