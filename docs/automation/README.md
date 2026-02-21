@@ -168,3 +168,13 @@ python3 scripts/new_governance_action_scope_change.py --id GASC-20260221-01 --mi
 ```bash
 python3 scripts/check_governance_action_scope_change_bundle.py --minutes governance-2026-02-20.md
 ```
+
+## Governance action deferral generation
+```bash
+python3 scripts/new_governance_action_deferral.py --id GAD-20260222-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-22
+```
+
+## Governance action deferral bundle check
+```bash
+python3 scripts/check_governance_action_deferral_bundle.py --minutes governance-2026-02-20.md
+```

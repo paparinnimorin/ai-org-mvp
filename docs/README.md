@@ -64,6 +64,7 @@
 - `process/governance-action-reopen.md`
 - `process/governance-action-escalation.md`
 - `process/governance-action-scope-change.md`
+- `process/governance-action-deferral.md`
 
 
 ## Checklists
@@ -81,6 +82,7 @@
 - `checklists/governance-action-reopen-checklist.md`
 - `checklists/governance-action-escalation-checklist.md`
 - `checklists/governance-action-scope-change-checklist.md`
+- `checklists/governance-action-deferral-checklist.md`
 
 
 ## Reports
@@ -113,6 +115,8 @@
 - `reports/minutes/escalations/gae-20260221-01-governance-2026-02-20.md`
 - `reports/minutes/scope-changes/`
 - `reports/minutes/scope-changes/gasc-20260221-01-governance-2026-02-20.md`
+- `reports/minutes/deferrals/`
+- `reports/minutes/deferrals/gad-20260222-01-governance-2026-02-20.md`
 
 
 ## Governance
@@ -151,6 +155,8 @@
 - `scripts/check_governance_action_escalation_bundle.py`
 - `scripts/new_governance_action_scope_change.py`
 - `scripts/check_governance_action_scope_change_bundle.py`
+- `scripts/new_governance_action_deferral.py`
+- `scripts/check_governance_action_deferral_bundle.py`
 
 
 ## Tickets
@@ -240,4 +246,8 @@
 - `tickets/084-governance-action-scope-change-checklist.md`
 - `tickets/085-governance-action-scope-change-cli.md`
 - `tickets/086-governance-action-scope-change-bundle-check-cli.md`
+- `tickets/087-governance-action-deferral-flow.md`
+- `tickets/088-governance-action-deferral-checklist.md`
+- `tickets/089-governance-action-deferral-cli.md`
+- `tickets/090-governance-action-deferral-bundle-check-cli.md`
 

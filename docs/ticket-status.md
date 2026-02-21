@@ -89,9 +89,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 084-governance-action-scope-change-checklist.md: DONE
 - 085-governance-action-scope-change-cli.md: DONE
 - 086-governance-action-scope-change-bundle-check-cli.md: DONE
+- 087-governance-action-deferral-flow.md: DONE
+- 088-governance-action-deferral-checklist.md: DONE
+- 089-governance-action-deferral-cli.md: DONE
+- 090-governance-action-deferral-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 86
+- Total tickets: 90
 - Open tickets: 0
 
 ## Next Development Focus
