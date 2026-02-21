@@ -61,9 +61,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 056-monthly-approval-audit-cli.md: DONE
 - 057-monthly-governance-review-cli.md: DONE
 - 058-monthly-governance-bundle-check-cli.md: DONE
+- 059-quarterly-governance-planning-flow.md: DONE
+- 060-quarterly-strategy-brief-cli.md: DONE
+- 061-quarterly-risk-rebalance-cli.md: DONE
+- 062-quarterly-governance-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 58
+- Total tickets: 62
 - Open tickets: 0
 
 ## Next Development Focus

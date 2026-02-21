@@ -56,6 +56,7 @@
 - `process/cycle-kickoff-readiness.md`
 - `process/cycle-midcheck-review.md`
 - `process/monthly-governance-review.md`
+- `process/quarterly-governance-planning.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -83,6 +84,9 @@
 - `reports/monthly/`
 - `reports/monthly/ma-202602-01-approval-audit-2026-02.md`
 - `reports/monthly/mr-202602-01-monthly-governance-review-2026-02.md`
+- `reports/quarterly/`
+- `reports/quarterly/qsb-2026q1-01-quarterly-strategy-brief-2026-q1.md`
+- `reports/quarterly/qrr-2026q1-01-quarterly-risk-rebalance-2026-q1.md`
 
 ## Governance
 - `risk-register.md`
@@ -104,6 +108,9 @@
 - `scripts/new_monthly_approval_audit.py`
 - `scripts/new_monthly_governance_review.py`
 - `scripts/check_monthly_governance_bundle.py`
+- `scripts/new_quarterly_strategy_brief.py`
+- `scripts/new_quarterly_risk_rebalance.py`
+- `scripts/check_quarterly_governance_bundle.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -164,3 +171,7 @@
 - `tickets/056-monthly-approval-audit-cli.md`
 - `tickets/057-monthly-governance-review-cli.md`
 - `tickets/058-monthly-governance-bundle-check-cli.md`
+- `tickets/059-quarterly-governance-planning-flow.md`
+- `tickets/060-quarterly-strategy-brief-cli.md`
+- `tickets/061-quarterly-risk-rebalance-cli.md`
+- `tickets/062-quarterly-governance-bundle-check-cli.md`

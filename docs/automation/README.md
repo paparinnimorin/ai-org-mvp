@@ -88,3 +88,18 @@ python3 scripts/new_monthly_governance_review.py --id MR-202602-01 --month 2026-
 ```bash
 python3 scripts/check_monthly_governance_bundle.py --month 2026-02
 ```
+
+## Quarterly strategy brief generation
+```bash
+python3 scripts/new_quarterly_strategy_brief.py --id QSB-2026Q1-01 --quarter 2026-Q1 --owner manager --date 2026-02-21
+```
+
+## Quarterly risk rebalance generation
+```bash
+python3 scripts/new_quarterly_risk_rebalance.py --id QRR-2026Q1-01 --quarter 2026-Q1 --owner manager --date 2026-02-21
+```
+
+## Quarterly governance bundle check
+```bash
+python3 scripts/check_quarterly_governance_bundle.py --quarter 2026-Q1
+```
