@@ -85,9 +85,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 080-governance-action-escalation-checklist.md: DONE
 - 081-governance-action-escalation-cli.md: DONE
 - 082-governance-action-escalation-bundle-check-cli.md: DONE
+- 083-governance-action-scope-change-flow.md: DONE
+- 084-governance-action-scope-change-checklist.md: DONE
+- 085-governance-action-scope-change-cli.md: DONE
+- 086-governance-action-scope-change-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 82
+- Total tickets: 86
 - Open tickets: 0
 
 ## Next Development Focus

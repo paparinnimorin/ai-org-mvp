@@ -158,3 +158,13 @@ python3 scripts/new_governance_action_escalation.py --id GAE-20260221-01 --minut
 ```bash
 python3 scripts/check_governance_action_escalation_bundle.py --minutes governance-2026-02-20.md
 ```
+
+## Governance action scope change generation
+```bash
+python3 scripts/new_governance_action_scope_change.py --id GASC-20260221-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-21
+```
+
+## Governance action scope change bundle check
+```bash
+python3 scripts/check_governance_action_scope_change_bundle.py --minutes governance-2026-02-20.md
+```

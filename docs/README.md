@@ -63,6 +63,7 @@
 - `process/governance-action-closure.md`
 - `process/governance-action-reopen.md`
 - `process/governance-action-escalation.md`
+- `process/governance-action-scope-change.md`
 
 
 ## Checklists
@@ -79,6 +80,7 @@
 - `checklists/governance-action-closure-checklist.md`
 - `checklists/governance-action-reopen-checklist.md`
 - `checklists/governance-action-escalation-checklist.md`
+- `checklists/governance-action-scope-change-checklist.md`
 
 
 ## Reports
@@ -109,6 +111,8 @@
 - `reports/minutes/reopens/garo-20260221-01-governance-2026-02-20.md`
 - `reports/minutes/escalations/`
 - `reports/minutes/escalations/gae-20260221-01-governance-2026-02-20.md`
+- `reports/minutes/scope-changes/`
+- `reports/minutes/scope-changes/gasc-20260221-01-governance-2026-02-20.md`
 
 
 ## Governance
@@ -145,6 +149,8 @@
 - `scripts/check_governance_action_reopen_bundle.py`
 - `scripts/new_governance_action_escalation.py`
 - `scripts/check_governance_action_escalation_bundle.py`
+- `scripts/new_governance_action_scope_change.py`
+- `scripts/check_governance_action_scope_change_bundle.py`
 
 
 ## Tickets
@@ -230,4 +236,8 @@
 - `tickets/080-governance-action-escalation-checklist.md`
 - `tickets/081-governance-action-escalation-cli.md`
 - `tickets/082-governance-action-escalation-bundle-check-cli.md`
+- `tickets/083-governance-action-scope-change-flow.md`
+- `tickets/084-governance-action-scope-change-checklist.md`
+- `tickets/085-governance-action-scope-change-cli.md`
+- `tickets/086-governance-action-scope-change-bundle-check-cli.md`
 
