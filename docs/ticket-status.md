@@ -93,9 +93,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 088-governance-action-deferral-checklist.md: DONE
 - 089-governance-action-deferral-cli.md: DONE
 - 090-governance-action-deferral-bundle-check-cli.md: DONE
+- 091-governance-action-verification-flow.md: DONE
+- 092-governance-action-verification-checklist.md: DONE
+- 093-governance-action-verification-cli.md: DONE
+- 094-governance-action-verification-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 90
+- Total tickets: 94
 - Open tickets: 0
 
 ## Next Development Focus
