@@ -69,9 +69,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 064-annual-strategy-charter-cli.md: DONE
 - 065-annual-risk-posture-cli.md: DONE
 - 066-annual-governance-bundle-check-cli.md: DONE
+- 067-governance-minutes-followup-flow.md: DONE
+- 068-governance-action-register-template.md: DONE
+- 069-governance-action-register-cli.md: DONE
+- 070-governance-action-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 66
+- Total tickets: 70
 - Open tickets: 0
 
 ## Next Development Focus

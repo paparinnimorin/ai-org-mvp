@@ -28,6 +28,7 @@
 - `templates/cycle-closeout-report.md`
 - `templates/cycle-kickoff-brief.md`
 - `templates/cycle-midcheck-report.md`
+- `templates/governance-action-register.md`
 
 ## Playbooks
 - `playbooks/content-mvp-runbook.md`
@@ -58,6 +59,7 @@
 - `process/monthly-governance-review.md`
 - `process/quarterly-governance-planning.md`
 - `process/annual-governance-planning.md`
+- `process/governance-minutes-followup.md`
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -91,6 +93,8 @@
 - `reports/annual/`
 - `reports/annual/asc-2026-01-annual-strategy-charter-2026.md`
 - `reports/annual/arp-2026-01-annual-risk-posture-2026.md`
+- `reports/minutes/actions/`
+- `reports/minutes/actions/gar-20260221-01-governance-2026-02-20.md`
 
 ## Governance
 - `risk-register.md`
@@ -118,6 +122,8 @@
 - `scripts/new_annual_strategy_charter.py`
 - `scripts/new_annual_risk_posture.py`
 - `scripts/check_annual_governance_bundle.py`
+- `scripts/new_governance_action_register.py`
+- `scripts/check_governance_action_bundle.py`
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -186,3 +192,7 @@
 - `tickets/064-annual-strategy-charter-cli.md`
 - `tickets/065-annual-risk-posture-cli.md`
 - `tickets/066-annual-governance-bundle-check-cli.md`
+- `tickets/067-governance-minutes-followup-flow.md`
+- `tickets/068-governance-action-register-template.md`
+- `tickets/069-governance-action-register-cli.md`
+- `tickets/070-governance-action-bundle-check-cli.md`

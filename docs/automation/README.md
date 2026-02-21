@@ -118,3 +118,13 @@ python3 scripts/new_annual_risk_posture.py --id ARP-2026-01 --year 2026 --owner 
 ```bash
 python3 scripts/check_annual_governance_bundle.py --year 2026
 ```
+
+## Governance action register generation
+```bash
+python3 scripts/new_governance_action_register.py --id GAR-20260221-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-21
+```
+
+## Governance action bundle check
+```bash
+python3 scripts/check_governance_action_bundle.py --minutes governance-2026-02-20.md
+```
