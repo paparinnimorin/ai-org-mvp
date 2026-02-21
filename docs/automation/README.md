@@ -103,3 +103,18 @@ python3 scripts/new_quarterly_risk_rebalance.py --id QRR-2026Q1-01 --quarter 202
 ```bash
 python3 scripts/check_quarterly_governance_bundle.py --quarter 2026-Q1
 ```
+
+## Annual strategy charter generation
+```bash
+python3 scripts/new_annual_strategy_charter.py --id ASC-2026-01 --year 2026 --owner manager --date 2026-02-21
+```
+
+## Annual risk posture generation
+```bash
+python3 scripts/new_annual_risk_posture.py --id ARP-2026-01 --year 2026 --owner manager --date 2026-02-21
+```
+
+## Annual governance bundle check
+```bash
+python3 scripts/check_annual_governance_bundle.py --year 2026
+```

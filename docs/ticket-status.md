@@ -65,9 +65,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 060-quarterly-strategy-brief-cli.md: DONE
 - 061-quarterly-risk-rebalance-cli.md: DONE
 - 062-quarterly-governance-bundle-check-cli.md: DONE
+- 063-annual-governance-planning-flow.md: DONE
+- 064-annual-strategy-charter-cli.md: DONE
+- 065-annual-risk-posture-cli.md: DONE
+- 066-annual-governance-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 62
+- Total tickets: 66
 - Open tickets: 0
 
 ## Next Development Focus
