@@ -148,3 +148,13 @@ python3 scripts/new_governance_action_reopen.py --id GARO-20260221-01 --minutes 
 ```bash
 python3 scripts/check_governance_action_reopen_bundle.py --minutes governance-2026-02-20.md
 ```
+
+## Governance action escalation generation
+```bash
+python3 scripts/new_governance_action_escalation.py --id GAE-20260221-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-21
+```
+
+## Governance action escalation bundle check
+```bash
+python3 scripts/check_governance_action_escalation_bundle.py --minutes governance-2026-02-20.md
+```
