@@ -60,6 +60,8 @@
 - `process/quarterly-governance-planning.md`
 - `process/annual-governance-planning.md`
 - `process/governance-minutes-followup.md`
+- `process/governance-action-closure.md`
+
 
 ## Checklists
 - `checklists/monthly-approval-audit.md`
@@ -72,6 +74,8 @@
 - `checklists/manager-cycle-kickoff-checklist.md`
 - `checklists/manager-cycle-midcheck-checklist.md`
 - `checklists/tasks/`
+- `checklists/governance-action-closure-checklist.md`
+
 
 ## Reports
 - `reports/weekly-kpi-snapshot.md`
@@ -95,6 +99,9 @@
 - `reports/annual/arp-2026-01-annual-risk-posture-2026.md`
 - `reports/minutes/actions/`
 - `reports/minutes/actions/gar-20260221-01-governance-2026-02-20.md`
+- `reports/minutes/closures/`
+- `reports/minutes/closures/gac-20260221-01-governance-2026-02-20.md`
+
 
 ## Governance
 - `risk-register.md`
@@ -124,6 +131,9 @@
 - `scripts/check_annual_governance_bundle.py`
 - `scripts/new_governance_action_register.py`
 - `scripts/check_governance_action_bundle.py`
+- `scripts/new_governance_action_closure.py`
+- `scripts/check_governance_action_closure_bundle.py`
+
 
 ## Tickets
 - `tickets/001-org-layer-role-definitions.md`
@@ -196,3 +206,8 @@
 - `tickets/068-governance-action-register-template.md`
 - `tickets/069-governance-action-register-cli.md`
 - `tickets/070-governance-action-bundle-check-cli.md`
+- `tickets/071-governance-action-closure-flow.md`
+- `tickets/072-governance-action-closure-checklist.md`
+- `tickets/073-governance-action-closure-cli.md`
+- `tickets/074-governance-action-closure-bundle-check-cli.md`
+
