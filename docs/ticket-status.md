@@ -77,9 +77,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 072-governance-action-closure-checklist.md: DONE
 - 073-governance-action-closure-cli.md: DONE
 - 074-governance-action-closure-bundle-check-cli.md: DONE
+- 075-governance-action-reopen-flow.md: DONE
+- 076-governance-action-reopen-checklist.md: DONE
+- 077-governance-action-reopen-cli.md: DONE
+- 078-governance-action-reopen-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 74
+- Total tickets: 78
 - Open tickets: 0
 
 ## Next Development Focus

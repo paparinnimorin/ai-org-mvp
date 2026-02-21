@@ -138,3 +138,13 @@ python3 scripts/new_governance_action_closure.py --id GAC-20260221-01 --minutes 
 ```bash
 python3 scripts/check_governance_action_closure_bundle.py --minutes governance-2026-02-20.md
 ```
+
+## Governance action reopen generation
+```bash
+python3 scripts/new_governance_action_reopen.py --id GARO-20260221-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-21
+```
+
+## Governance action reopen bundle check
+```bash
+python3 scripts/check_governance_action_reopen_bundle.py --minutes governance-2026-02-20.md
+```

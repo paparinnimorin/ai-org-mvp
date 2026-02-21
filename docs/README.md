@@ -61,6 +61,7 @@
 - `process/annual-governance-planning.md`
 - `process/governance-minutes-followup.md`
 - `process/governance-action-closure.md`
+- `process/governance-action-reopen.md`
 
 
 ## Checklists
@@ -75,6 +76,7 @@
 - `checklists/manager-cycle-midcheck-checklist.md`
 - `checklists/tasks/`
 - `checklists/governance-action-closure-checklist.md`
+- `checklists/governance-action-reopen-checklist.md`
 
 
 ## Reports
@@ -101,6 +103,8 @@
 - `reports/minutes/actions/gar-20260221-01-governance-2026-02-20.md`
 - `reports/minutes/closures/`
 - `reports/minutes/closures/gac-20260221-01-governance-2026-02-20.md`
+- `reports/minutes/reopens/`
+- `reports/minutes/reopens/garo-20260221-01-governance-2026-02-20.md`
 
 
 ## Governance
@@ -133,6 +137,8 @@
 - `scripts/check_governance_action_bundle.py`
 - `scripts/new_governance_action_closure.py`
 - `scripts/check_governance_action_closure_bundle.py`
+- `scripts/new_governance_action_reopen.py`
+- `scripts/check_governance_action_reopen_bundle.py`
 
 
 ## Tickets
@@ -210,4 +216,8 @@
 - `tickets/072-governance-action-closure-checklist.md`
 - `tickets/073-governance-action-closure-cli.md`
 - `tickets/074-governance-action-closure-bundle-check-cli.md`
+- `tickets/075-governance-action-reopen-flow.md`
+- `tickets/076-governance-action-reopen-checklist.md`
+- `tickets/077-governance-action-reopen-cli.md`
+- `tickets/078-governance-action-reopen-bundle-check-cli.md`
 
