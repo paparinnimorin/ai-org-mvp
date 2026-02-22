@@ -67,6 +67,7 @@
 - `process/governance-action-deferral.md`
 - `process/governance-action-verification.md`
 - `process/governance-action-cancellation.md`
+- `process/governance-action-replacement.md`
 
 
 ## Checklists
@@ -87,6 +88,7 @@
 - `checklists/governance-action-deferral-checklist.md`
 - `checklists/governance-action-verification-checklist.md`
 - `checklists/governance-action-cancellation-checklist.md`
+- `checklists/governance-action-replacement-checklist.md`
 
 
 ## Reports
@@ -125,6 +127,8 @@
 - `reports/minutes/verifications/gav-20260222-01-governance-2026-02-20.md`
 - `reports/minutes/cancellations/`
 - `reports/minutes/cancellations/gax-20260222-01-governance-2026-02-20.md`
+- `reports/minutes/replacements/`
+- `reports/minutes/replacements/garp-20260222-01-governance-2026-02-20.md`
 
 
 ## Governance
@@ -169,6 +173,8 @@
 - `scripts/check_governance_action_verification_bundle.py`
 - `scripts/new_governance_action_cancellation.py`
 - `scripts/check_governance_action_cancellation_bundle.py`
+- `scripts/new_governance_action_replacement.py`
+- `scripts/check_governance_action_replacement_bundle.py`
 
 
 ## Tickets
@@ -270,4 +276,8 @@
 - `tickets/096-governance-action-cancellation-checklist.md`
 - `tickets/097-governance-action-cancellation-cli.md`
 - `tickets/098-governance-action-cancellation-bundle-check-cli.md`
+- `tickets/099-governance-action-replacement-flow.md`
+- `tickets/100-governance-action-replacement-checklist.md`
+- `tickets/101-governance-action-replacement-cli.md`
+- `tickets/102-governance-action-replacement-bundle-check-cli.md`
 

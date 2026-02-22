@@ -199,3 +199,13 @@ python3 scripts/new_governance_action_cancellation.py --id GAX-20260222-01 --min
 ```bash
 python3 scripts/check_governance_action_cancellation_bundle.py --minutes governance-2026-02-20.md
 ```
+
+## Governance action replacement generation
+```bash
+python3 scripts/new_governance_action_replacement.py --id GARP-20260222-01 --minutes governance-2026-02-20.md --owner manager --date 2026-02-22
+```
+
+## Governance action replacement bundle check
+```bash
+python3 scripts/check_governance_action_replacement_bundle.py --minutes governance-2026-02-20.md
+```
