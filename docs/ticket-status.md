@@ -97,9 +97,13 @@ Generated/maintained for quick review of `docs/tickets/*.md` progress.
 - 092-governance-action-verification-checklist.md: DONE
 - 093-governance-action-verification-cli.md: DONE
 - 094-governance-action-verification-bundle-check-cli.md: DONE
+- 095-governance-action-cancellation-flow.md: DONE
+- 096-governance-action-cancellation-checklist.md: DONE
+- 097-governance-action-cancellation-cli.md: DONE
+- 098-governance-action-cancellation-bundle-check-cli.md: DONE
 
 ## Summary
-- Total tickets: 94
+- Total tickets: 98
 - Open tickets: 0
 
 ## Next Development Focus
